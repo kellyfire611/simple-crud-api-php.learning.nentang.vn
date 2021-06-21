@@ -3,8 +3,7 @@
         <div class="row">
             <div class="col-md-2"></div>
             <div class="col-md-10">
-                <span>Bản quyền &copy; bởi <a href="https://nentang.vn">Nền Tảng</a> - <script>document.write(new Date().getFullYear());</script>.</span>
-                <span class="text-muted">Hành trang tới Tương lai</span>
+                <span>Bản quyền &copy; bởi Mộng Tuyền - 2021
             </div>
         </div>
     </div>
