@@ -56,6 +56,6 @@ if(count($data) > 0) {
     ];
 }
 // Dữ liệu JSON, từ array PHP -> JSON
+header("Content-type: application/json; charset=utf-8");
 // echo json_encode($responseData);
-
 echo json_encode($responseData, JSON_UNESCAPED_UNICODE);
